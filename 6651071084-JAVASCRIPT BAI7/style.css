@@ -1,0 +1,19 @@
+body {
+    margin: 30px;
+    font-family: sans-serif;
+}
+
+h1 {
+    font-size: 18px;
+    margin-bottom: 15px;
+}
+
+#linkInput {
+    padding: 6px 10px;
+    width: 250px;
+}
+
+button {
+    padding: 6px 15px;
+    cursor: pointer;
+}

@@ -1,0 +1,13 @@
+body {
+    margin: 30px;
+    font-family: sans-serif;
+}
+
+select {
+    padding: 5px 10px;
+}
+
+input[type="button"] {
+    padding: 5px 12px;
+    cursor: pointer;
+}

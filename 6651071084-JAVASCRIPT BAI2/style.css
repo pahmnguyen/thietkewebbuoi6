@@ -1,0 +1,17 @@
+body {
+    margin: 20px;
+    font-family: sans-serif;
+}
+
+form {
+    line-height: 2.2;
+}
+
+input[type="text"] {
+    padding: 4px 8px;
+}
+
+input[type="submit"] {
+    padding: 5px 15px;
+    cursor: pointer;
+}

@@ -1,0 +1,21 @@
+body {
+    margin: 30px;
+    font-family: sans-serif;
+}
+
+.calculator {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}
+
+.calculator input[type="number"], .calculator input[type="text"] {
+    width: 60px;
+    padding: 4px;
+    text-align: center;
+}
+
+.calculator button {
+    padding: 4px 10px;
+    cursor: pointer;
+}
